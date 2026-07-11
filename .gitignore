@@ -1,0 +1,3 @@
+# Folder yang tidak perlu di-upload
+node_modules/
+fixtures/
