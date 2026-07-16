@@ -15,3 +15,8 @@
 
 // Import commands.js using ES2015 syntax:
 import './commands'
+
+afterEach(() => {
+  // Memberikan jeda otomatis setiap kali test selesai di semua file
+  cy.wait(2000); // jeda 2 detik
+});

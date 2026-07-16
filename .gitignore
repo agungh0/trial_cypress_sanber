@@ -1,3 +1,3 @@
 # Folder yang tidak perlu di-upload
 node_modules/
-fixtures/
+cypress/e2e/Tugas API Test/
